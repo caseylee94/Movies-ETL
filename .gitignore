@@ -1,1 +1,3 @@
-
+# Large files to ignore to allow push
+ratings.csv
+movies_metadata.csv
